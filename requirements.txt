@@ -7,4 +7,3 @@ langchain_core
 langchain_text_splitters
 langserve
 os
-RemoteRunnable
