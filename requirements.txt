@@ -2,3 +2,7 @@ langchain
 streamlit
 openai
 langchain_openai
+langchain_community
+langchain_core
+langchain_text_splitters
+langserve
